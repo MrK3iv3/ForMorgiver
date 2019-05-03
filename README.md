@@ -21,3 +21,13 @@ ren webpack-simpla-template {your name}
 cd ./{your name}
 npm i
 ```
+
+### start the development server
+```
+npm run dev
+```
+
+### start build
+```
+npm run prod
+```
