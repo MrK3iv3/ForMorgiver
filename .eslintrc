@@ -1,0 +1,31 @@
+{
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "ecmaFeatures": {
+      "jsx": false,
+      "arrowFunctions": true
+    },
+    "sourceType": "module"
+  },
+  "rules": {
+    "quotes": "off",
+    "strict": "off",
+    "no-var": "error",
+    "no-empty": "warn",
+    "no-alert": "error",
+    "no-loop-func": "warn",
+    "no-lonely-if": "warn",
+    "no-delete-var": "off",
+    "global-require": "off",
+    "no-else-return": "warn",
+    "no-regex-spaces": "error",
+    "no-empty-function": "warn",
+    "no-useless-return": "error",
+    "no-useless-constructor": "warn",
+    "no-empty-character-class": "warn"
+  }
+}
