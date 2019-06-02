@@ -16,6 +16,7 @@ npm i
 ```
 or if you want rename your project so
 
+(for windows)
 ```
 ren webpack-simple-template {your name}
 cd ./{your name}
